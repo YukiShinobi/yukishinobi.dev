@@ -18,7 +18,7 @@
 
 The design follows the same identity as my GitHub profile: dark graphite, silver typography, muted crimson accents, restrained motion and dense-but-readable project cards.
 
-## Current build
+## Featured live build\n\n### Project Creation\n\nProject Creation is my main gamified fitness platform, combining workouts, nutrition, progression, social features, analytics and persistent user data in an installable web app.\n\n**Live app:** https://project-creation-theta.vercel.app/\n\n`React` · `TypeScript` · `Vite` · `Node.js` · `Express` · `PostgreSQL` · `Drizzle` · `Clerk` · `Vercel`\n\n## Current build
 
 - responsive landing page
 - selected project cards
