@@ -54,3 +54,12 @@ The first version is intentionally static. A personal site should not need a lar
 ---
 
 <div align="center"><b>BUILD → BREAK → LEARN → UPGRADE → SHIP</b></div>
+
+
+## Related active work — October 2026
+
+- [Simply Management](https://simplymanagement-website.vercel.app/) — website for Discord community services; custom React/Vite UI, order builder and interactive challenges. Order storage is still being integrated.
+- [Veyra](https://github.com/YukiShinobi/YukiShinobi-veyra) — Discord server operations and community automation bot owned by Yuki.
+- [Project Creation](https://project-creation-theta.vercel.app/) — gamified fitness PWA undergoing integration and acceptance testing.
+
+This repository is the personal portfolio **source**, not the Simply Management website or the Project Creation app. Update the rendered portfolio separately if featured projects or live links should be shown to visitors.
