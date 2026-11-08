@@ -40,7 +40,7 @@ To the extent permitted by applicable law, Veyra's operator is not responsible f
 
 ## 9. Privacy
 
-Read Veyra's [Privacy Policy](../privacy.md), which explains categories of data that the Service may process and how to ask questions or request deletion.
+Read Veyra's [Privacy Policy](./privacy.md), which explains categories of data that the Service may process and how to ask questions or request deletion.
 
 ## 10. Updates and contact
 
